@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/ASUS/Desktop/lll/DUDU3/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
